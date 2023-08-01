@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.212bc88c.css",
+    "main.js": "/static/js/main.699f2651.js",
+    "static/js/787.8c04e5eb.chunk.js": "/static/js/787.8c04e5eb.chunk.js",
+    "static/media/foto sem fundo.png": "/static/media/foto sem fundo.f6dbbf1641e2937497b4.png",
+    "static/media/opiniao-distorcida.png": "/static/media/opiniao-distorcida.484f5bb38193302657b4.png",
+    "static/media/whats-icon.png": "/static/media/whats-icon.76cb15a854df14605bae.png",
+    "static/media/thunder-cast.png": "/static/media/thunder-cast.bb595e4e3f1c835e10a1.png",
+    "static/media/insta-icon.png": "/static/media/insta-icon.ee57bd1efeafd7f0f457.png",
+    "static/media/life-hacking.png": "/static/media/life-hacking.0e15adc0b7d3e1b4d0cd.png",
+    "static/media/twitter-icon.png": "/static/media/twitter-icon.103dc9bc3f9034c979ca.png",
+    "index.html": "/index.html",
+    "main.212bc88c.css.map": "/static/css/main.212bc88c.css.map",
+    "main.699f2651.js.map": "/static/js/main.699f2651.js.map",
+    "787.8c04e5eb.chunk.js.map": "/static/js/787.8c04e5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212bc88c.css",
+    "static/js/main.699f2651.js"
+  ]
+}
