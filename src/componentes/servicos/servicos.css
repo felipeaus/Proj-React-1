@@ -1,0 +1,15 @@
+.serv-estilo h2{
+    color: #d0ecf4;
+    font-family: fantasy;
+    font-weight: lighter;
+}
+.serv-estilo p{
+    color: antiquewhite;
+    font-family: fantasy;
+    font-weight: lighter;
+}
+.serv-estilo p:hover {
+    color: red;
+}
+
+

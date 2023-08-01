@@ -1,0 +1,13 @@
+@keyframes piscar {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}    
+
+
+.img-contato{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    animation: piscar 2.5s linear infinite;
+}
